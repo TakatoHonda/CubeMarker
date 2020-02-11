@@ -1,0 +1,4 @@
+./_dat/demo/example-1.csv
+./_dat/demo/example-2.csv
+./_dat/demo/example-3.csv
+./_dat/demo/example-4.csv

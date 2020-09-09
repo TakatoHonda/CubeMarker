@@ -33,7 +33,7 @@ i|r|m|Cost
 * m: # of segments (patterns)
 * Cost: Total cost of the result
 
-# Files and Directories
+# Files and directories
 * _dat/: demo data
 * _list/: demo data list
 * _demo/: demo result figs
@@ -41,5 +41,5 @@ i|r|m|Cost
     * _out/[#]/: result for each iteration
         - _out/[#]/input: input files list
         - _out/[#]/model.[#]: HMM models
-        - _out/[#]/segment.[#]: Segments info
-        - _out/[#]/segment.labels: Regime info
+        - _out/[#]/segment.[#]: segments info
+        - _out/[#]/segment.labels: regime info

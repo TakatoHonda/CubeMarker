@@ -40,6 +40,6 @@ i|r|m|Cost
 * _out/: output directory
     * _out/[#]/: result for each iteration
         - _out/[#]/input: input files list
-        - _out/[#]/model.[#]: HMM models
+        - _out/[#]/model.[#]: HMM parameters
         - _out/[#]/segment.[#]: segments info
         - _out/[#]/segment.labels: regime info

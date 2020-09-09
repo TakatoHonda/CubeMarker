@@ -1,5 +1,5 @@
 ###### Version: March 27, 2018
-###### Author: Takato Honda (takato88@sanken.osaka-u.ac.jp)
+###### Author: Takato Honda (takato@sanken.osaka-u.ac.jp)
 ---
 # Introduction
 This is a code of CubeMarker, which finds multi-aspect patterns and groups of patterns, written in C. CubeMarker is accepted as a regular paper for ICDM'19, entitled ["Multi-Aspect Mining of Complex Sensor Sequences"](https://takatohonda.github.io/paper/paper-icdm19.pdf).
